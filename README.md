@@ -178,6 +178,3 @@ The system can detect the following PII categories:
 
 [MIT License](LICENSE)
 
-## Acknowledgements
-
-This project uses the [betterdataai/PII_DETECTION_MODEL](https://huggingface.co/betterdataai/PII_DETECTION_MODEL) from Hugging Face.
