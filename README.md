@@ -70,7 +70,7 @@ curl -X POST http://localhost:8080/detect_pii \
   }
 }
 ```
-
+images/Screenshot 2025-04-13 at 9.58.37 PM.png
 
 
 #### GET /
