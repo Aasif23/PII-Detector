@@ -2,6 +2,9 @@
 
 A Flask-based API service that uses transformer models to detect Personal Identifiable Information (PII) in text. This tool can identify various categories of PII such as social security numbers, email addresses, phone numbers, and more.
 
+![PII Detection API Flow](images/pii_image.png)
+
+
 ## Features
 
 - Detects 29 different types of PII including:
@@ -70,7 +73,8 @@ curl -X POST http://localhost:8080/detect_pii \
   }
 }
 ```
-images/Screenshot 2025-04-13 at 9.58.37 PM.png
+
+![PII Detection API Flow](images/pii-detection-request.png)
 
 
 #### GET /
